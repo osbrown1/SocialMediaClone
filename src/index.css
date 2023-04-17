@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Header{
+  display: inline-flex;
+  position: absolute;
+  height: 10vh;
+}
+
+.Header img{
+  border-radius: 25px;
+}
